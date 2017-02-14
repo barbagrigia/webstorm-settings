@@ -1,0 +1,25 @@
+<application>
+  <component name="FindSettings">
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>dark*</mask>
+      <mask>dark*.*</mask>
+      <mask>flags-lang*&lt;&gt;*</mask>
+      <mask>flags-lang*.*</mask>
+      <mask>*.rb</mask>
+      <mask>dark_background_stripes.gif</mask>
+      <mask>*.scss</mask>
+      <mask>*.es6.js</mask>
+      <mask>*test*</mask>
+      <mask>*.dust</mask>
+    </recentFileMasks>
+  </component>
+</application>
