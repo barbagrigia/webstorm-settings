@@ -20,7 +20,6 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="wast" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="po" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
